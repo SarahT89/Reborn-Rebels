@@ -1,21 +1,3 @@
-@font-face {
-    font-family: 'Carnivalee Freakshow';
-    src: url("./Carnevalee_Freakshow.ttf");
-    font-weight: normal;
-    font-style: normal;
-}
-
-body {background-color: #a8caed;}
-
-h1 {
-  color: #eff4fc;
-  font-family: 'Carnivalee Freakshow', arial;
-  font-size: 200px;
-  text-align: center;
-  text-shadow: 8px 8px 8px #aaa;
-  margin-bottom: 0;
-  margin-top: 0;
-}
 
 h2 {
   text-align: center;

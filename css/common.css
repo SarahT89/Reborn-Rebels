@@ -1,0 +1,13 @@
+@import "./fonts.css";
+
+body {background-color: #a8caed;}
+
+h1 {
+  color: #eff4fc;
+  font-family: 'Carnivalee Freakshow', arial;
+  font-size: 200px;
+  text-align: center;
+  text-shadow: 8px 8px 8px #aaa;
+  margin-bottom: 0;
+  margin-top: 0;
+}
