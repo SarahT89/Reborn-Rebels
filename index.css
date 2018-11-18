@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Carnivalee Freakshow';
+    src: url("./Carnevalee_Freakshow.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {background-color: #a8caed;}
 
 h1 {
