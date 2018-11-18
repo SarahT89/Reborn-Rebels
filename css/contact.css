@@ -20,6 +20,21 @@ a {
   padding: 10px;
 }
 
+textarea {
+  height: 300px;
+  width: 600px;
+
+}
+.social {
+  margin: 15px;
+}
+
+form {
+  font-family:sans-serif;
+  text-align: center;
+
+}
+
 .fa {
   padding: 20px;
   font-size: 30px;
